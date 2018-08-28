@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/guillawme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://guilz.github.io
+  * I am guillawme (https://keybase.io/guillawme) on keybase.
+  * I have a public key ASAuMUZ1v2L27FLCeMSeiiJUjya8umv2Ej1bYB_oI9K4Zgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202e314675bf62f6ec52c278c49e8a22548f26bcba6bf6123d5b601fe823d2b8660a",
+      "host": "keybase.io",
+      "kid": "01202e314675bf62f6ec52c278c49e8a22548f26bcba6bf6123d5b601fe823d2b8660a",
+      "uid": "1e8a48a97f5dd6fb2487782c263b8419",
+      "username": "guillawme"
+    },
+    "merkle_root": {
+      "ctime": 1508371225,
+      "hash": "21bdabb20b9a1605570294ff46b7e3d02916342a7d614599601ef64294ab26e1838f46ffb77ef477fdb282daa31154f987a0028a70271ea141b6598479dc3d5c",
+      "hash_meta": "1411210a6af6c1dbaacb88c6d0b0fc2ec79ede2c3d0c48b9b44b8965882687ea",
+      "seqno": 1600064
+    },
+    "service": {
+      "hostname": "guilz.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508371250,
+  "expire_in": 504576000,
+  "prev": "46b1c9147b35f6e6bccc3bc930a4e41c21bf3a4e76062bac7839fdfcf58f6ec4",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLjFGdb9i9uxSwnjEnooiVI8mvLpr9hI9W2Af6CPSuGYKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmUzMTQ2NzViZjYyZjZlYzUyYzI3OGM0OWU4YTIyNTQ4ZjI2YmNiYTZiZjYxMjNkNWI2MDFmZTgyM2QyYjg2NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmUzMTQ2NzViZjYyZjZlYzUyYzI3OGM0OWU4YTIyNTQ4ZjI2YmNiYTZiZjYxMjNkNWI2MDFmZTgyM2QyYjg2NjBhIiwidWlkIjoiMWU4YTQ4YTk3ZjVkZDZmYjI0ODc3ODJjMjYzYjg0MTkiLCJ1c2VybmFtZSI6Imd1aWxsYXdtZSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwODM3MTIyNSwiaGFzaCI6IjIxYmRhYmIyMGI5YTE2MDU1NzAyOTRmZjQ2YjdlM2QwMjkxNjM0MmE3ZDYxNDU5OTYwMWVmNjQyOTRhYjI2ZTE4MzhmNDZmZmI3N2VmNDc3ZmRiMjgyZGFhMzExNTRmOTg3YTAwMjhhNzAyNzFlYTE0MWI2NTk4NDc5ZGMzZDVjIiwiaGFzaF9tZXRhIjoiMTQxMTIxMGE2YWY2YzFkYmFhY2I4OGM2ZDBiMGZjMmVjNzllZGUyYzNkMGM0OGI5YjQ0Yjg5NjU4ODI2ODdlYSIsInNlcW5vIjoxNjAwMDY0fSwic2VydmljZSI6eyJob3N0bmFtZSI6Imd1aWx6LmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA4MzcxMjUwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjQ2YjFjOTE0N2IzNWY2ZTZiY2NjM2JjOTMwYTRlNDFjMjFiZjNhNGU3NjA2MmJhYzc4MzlmZGZjZjU4ZjZlYzQiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAiYyO1DwvDdtmKNRXHR1VbXMM5jDSPefSpOWC9sn6mmhmw8x8RaCH82aSAXDZB4L8z6dfOqBf6j5v5azhebrpAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPbzdxUFppm86X1RZ2r5bM8d5xCapDeSl/nDVYDaBFOvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/guillawme
+
+==================================================================
