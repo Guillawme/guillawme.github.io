@@ -4,7 +4,7 @@ https://keybase.io/guillawme
 
 I hereby claim:
 
-  * I am an admin of https://guilz.github.io
+  * I am an admin of https://guillawme.github.io
   * I am guillawme (https://keybase.io/guillawme) on keybase.
   * I have a public key ASAuMUZ1v2L27FLCeMSeiiJUjya8umv2Ej1bYB_oI9K4Zgo
 
@@ -20,32 +20,33 @@ To do so, I am signing this object:
       "username": "guillawme"
     },
     "merkle_root": {
-      "ctime": 1508371225,
-      "hash": "21bdabb20b9a1605570294ff46b7e3d02916342a7d614599601ef64294ab26e1838f46ffb77ef477fdb282daa31154f987a0028a70271ea141b6598479dc3d5c",
-      "hash_meta": "1411210a6af6c1dbaacb88c6d0b0fc2ec79ede2c3d0c48b9b44b8965882687ea",
-      "seqno": 1600064
+      "ctime": 1553646021,
+      "hash": "19f5c018ba64c6927785302ea908d802900c5e784b434d8289262195c92d00778b996bc5544b9092893ef2bc69756a8ae69348a1e9f3c5cf738430e9d271c509",
+      "hash_meta": "8497e16b111decde34ddb54e085a463048ac9603fd890668200cf3753d20ab8f",
+      "seqno": 5030017
     },
     "service": {
-      "hostname": "guilz.github.io",
+      "entropy": "lNO85Xd/TtPM8orlcajYPSUd",
+      "hostname": "guillawme.github.io",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.33"
+    "version": "2.10.1"
   },
-  "ctime": 1508371250,
+  "ctime": 1553646087,
   "expire_in": 504576000,
-  "prev": "46b1c9147b35f6e6bccc3bc930a4e41c21bf3a4e76062bac7839fdfcf58f6ec4",
-  "seqno": 10,
+  "prev": "c96516fe94f30dd97dbda15603a47c80d5fe49223cdebc14e28d51935bc6f929",
+  "seqno": 22,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLjFGdb9i9uxSwnjEnooiVI8mvLpr9hI9W2Af6CPSuGYKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmUzMTQ2NzViZjYyZjZlYzUyYzI3OGM0OWU4YTIyNTQ4ZjI2YmNiYTZiZjYxMjNkNWI2MDFmZTgyM2QyYjg2NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmUzMTQ2NzViZjYyZjZlYzUyYzI3OGM0OWU4YTIyNTQ4ZjI2YmNiYTZiZjYxMjNkNWI2MDFmZTgyM2QyYjg2NjBhIiwidWlkIjoiMWU4YTQ4YTk3ZjVkZDZmYjI0ODc3ODJjMjYzYjg0MTkiLCJ1c2VybmFtZSI6Imd1aWxsYXdtZSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwODM3MTIyNSwiaGFzaCI6IjIxYmRhYmIyMGI5YTE2MDU1NzAyOTRmZjQ2YjdlM2QwMjkxNjM0MmE3ZDYxNDU5OTYwMWVmNjQyOTRhYjI2ZTE4MzhmNDZmZmI3N2VmNDc3ZmRiMjgyZGFhMzExNTRmOTg3YTAwMjhhNzAyNzFlYTE0MWI2NTk4NDc5ZGMzZDVjIiwiaGFzaF9tZXRhIjoiMTQxMTIxMGE2YWY2YzFkYmFhY2I4OGM2ZDBiMGZjMmVjNzllZGUyYzNkMGM0OGI5YjQ0Yjg5NjU4ODI2ODdlYSIsInNlcW5vIjoxNjAwMDY0fSwic2VydmljZSI6eyJob3N0bmFtZSI6Imd1aWx6LmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA4MzcxMjUwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjQ2YjFjOTE0N2IzNWY2ZTZiY2NjM2JjOTMwYTRlNDFjMjFiZjNhNGU3NjA2MmJhYzc4MzlmZGZjZjU4ZjZlYzQiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAiYyO1DwvDdtmKNRXHR1VbXMM5jDSPefSpOWC9sn6mmhmw8x8RaCH82aSAXDZB4L8z6dfOqBf6j5v5azhebrpAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPbzdxUFppm86X1RZ2r5bM8d5xCapDeSl/nDVYDaBFOvo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLjFGdb9i9uxSwnjEnooiVI8mvLpr9hI9W2Af6CPSuGYKp3BheWxvYWTESpcCFsQgyWUW/pTzDdl9vaFWA6R8gNX+SSI83rwU4o1Rk1vG+SnEIJMjf8ln+z4zCmH0apkhh+scu3KN2ykn9TzLhYU5ijibAgHCo3NpZ8RA/sYPIV7v0/T7DVK+x0g8ws/Omen8GruEzQsn42oRai1qdxA4GZnrfy7Sexy+pX4sV7HMuC1YFwkxmPckDhrVB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPe1PScM1tGEEsqE/7EhL32aoCoCwSNzLL35d68Agz3uo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
